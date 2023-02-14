@@ -1,0 +1,13 @@
+links = [{"London": 1, "Birmingham": 2, "latency": "1.13", "bw": 100},
+{"London": 1, "Glasgow": 3, "latency": "3.94", "bw": 100},
+{"London": 1, "Liverpool": 4, "latency": "2.02", "bw": 100},
+{"Birmingham": 2, "Bristol": 5, "latency": "0.9", "bw": 100},
+{"Birmingham": 2  , "Leicester": 6, "latency": "0.36", "bw": 100},
+{"Glasgow": 3, "Edinburgh": 7, "latency": "2.31", "bw": 100},
+{"Glasgow": 3, "Sheffield": 8, "latency": "0.46", "bw": 100},
+{"Liverpool": 4, "Manchester": 9, "latency": "0.36", "bw": 100},
+{"Liverpool": 4, "Leeds": 10, "latency": "0.74", "bw": 100},
+{"Birmingham": 2, "Glasgow": 3, "latency": "2.89", "bw": 100},
+{"Glasgow": 3, "Liverpool": 4, "latency": "2.05", "bw": 100},
+{"Leicester": 6, "Edinburgh": 7, "latency": "2.79", "bw": 100},
+{"Sheffield": 8, "Manchester": 9, "latency": "0.35", "bw": 100}]
